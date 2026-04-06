@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# 数据
+data/raw/
+data/processed/
+
+# Java
+target/
+
+# 临时文件
+*.tmp
+*.temp
+
+# 操作系统
+.DS_Store
+Thumbs.db
